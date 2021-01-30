@@ -1,0 +1,90 @@
+.navbar-light .navbar-brand {
+    color: white;
+    background: blue;
+    padding: 10px 20px;
+}
+img.banner-wrap-img {
+    width: 100%;
+    height: 600px;
+}
+h1.aboutme-h {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+span.span-me {
+    color: red;
+}
+h3.aboutme-name-h {
+    text-transform: uppercase;
+    color: red;
+    margin-top: 20px;
+}
+img.aboutme-img-bruno {
+    width: 100%;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+img {
+    width: 20px;
+    margin-right: 10px;
+}
+.aboutme-name-c {
+    float: left;
+    margin-right: 20px;
+}
+.aboutme-name-e {
+    float: inline-end;
+}
+.aboutme-name-cv {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+section#banner-wrap {
+    height: 500px;
+    background: url(../img/bannerw.jpg);
+}
+.hi {
+    color: red;
+    margin-top: 50px;
+}
+button.btn-danger {
+    border: none;
+    padding: 8px 20px;
+    border-radius: 40px;
+    outline: none;
+    font-weight: 500;
+}
+.knowndiv i.fas.fa-long-arrow-alt-right {
+    color: red;
+}
+.wordpress {
+    float: left;
+}
+.drupal {
+    float: left;
+    margin-left: 10px;
+}
+.laravel {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.photoshop {
+    float: left;
+    margin-left: 10px;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    background-color: red;
+    border: 0px;
+    color: white;
+    margin-top: 50px;
+}
+.h1, h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+.banner-p {
+    margin-top: 30px;
+}
